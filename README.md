@@ -1,6 +1,6 @@
 * Ferramentas de controle de versão:
 
 * Mercuarial
-* GitHub
+* Git
 * Subversion
 * CVS

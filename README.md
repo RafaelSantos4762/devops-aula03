@@ -1,2 +1,6 @@
-# devops-aula03
-Third DevOps class
+* Ferramentas de controle de versão:
+
+* Mercuarial
+* GitHub
+* Subversion
+* CVS
